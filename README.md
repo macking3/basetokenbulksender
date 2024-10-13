@@ -1,13 +1,5 @@
 ![Demo](demo.mp4)
 
-# Problem:
-
-Traditionally many people still transfer token manually, one transaction at a time. additional tools were required in order to transfer many ERC20 tokens at once. The process is time consuming and gas fees wastage.
-
-# Solution:
-
-This tokensender tools allows a user to send multiple token transfers in one base transaction, saving stress, time and gas fees. 
-
 # How to use:
 
 1. Connect Wallets. Support all Web3 wallets. Coinbase, Okx wallets, Metamask
