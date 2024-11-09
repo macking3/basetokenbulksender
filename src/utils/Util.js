@@ -5,7 +5,7 @@ export const supportedNetworks = {
     
 }
 export const contractAddress = { 
-    8453: "0xD84Bc6b79B65d2321956a9c59A1F75ad8AB1FFFe", 
+    8453: "0xCe598d9C9dAebcaF64fe4Ecc3b562E09D5284455", 
     84532: "0xadb29eb9EB5b898C1f2ae1aE5C4d7AF74Bb95c8e"
 }
 export function getSupportedNetworks() {
